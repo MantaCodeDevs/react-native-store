@@ -3,6 +3,7 @@
 class Filter {
     constructor() {
         this.comparisonOperators = [
+            'neq',
             'gt',
             'gte',
             'lt',
